@@ -32,8 +32,8 @@
 		],
 		"trigger":[
 			{
-				"time":"156822675.776",
-				"u_time":"METs",
+				"value":"156822675.776",
+				"u_value":"METs",
 				"telescope":"Swift",
 				"instrument":"BAT",
 				"UTC":"2005-12-21T01:51:15.868000",
