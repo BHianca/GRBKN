@@ -24,18 +24,18 @@
 				"alias”:”4"
 			}
 		],
-		“trigger”:[
+		"trigger":[
 			{
-				“day”:”2005/12/21”,
-				“time”: 0000000,
-				"source”:”1”
-			}
+				"time":"000000000",
+				"day”:”2005/12/21",
+				"source”:”1"
+			}	
 		],
 		"ebv_gal”:[
 			{
 				"value":"0.0098",
 				"e_value":"0.0006",
-				"source”:”2”
+				"source”:”2"
 			}
 		],
 		"ra":[
@@ -43,7 +43,7 @@
 				"value":"23:01:26.957",
 				"e_value":"0.25",
 				"u_value":"hours",
-				"source”:”3,4”
+				"source”:”3,4"
 			}
 		],
 		"dec":[
