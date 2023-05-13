@@ -42,24 +42,26 @@
 		],
 		"ebv_gal":[
 			{
-				"value":"0.0098",
-				"e_value":"0.0006",
+				"value":"0.0591",
+				"e_value":"0.0025",
 				"source":"2"
 			}
 		],
 		"ra":[
 			{
-				"value":"23:01:26.957",
-				"e_value":"0.25",
+				"value":"21:54:48.63",
+				"e_value":"0.18",
 				"u_value":"hours",
+				"epoch":"J2000",
 				"source":"3,4"
 			}
 		],
 		"dec":[
 			{
-				"value":"-38:58:39.76",
-				"e_value":"0.25",
+				"value":"16:53:27.4",
+				"e_value":"0.18",
 				"u_value":"degrees",
+				"epoch":"J2000",
 				"source":"3,4"
 			}
 		],
