@@ -24,7 +24,7 @@
 				"alias”:”4”
 			}
 		],
-		“triggertime”:[
+		“trigger”:[
 			{
 				“day”:”2005/12/21”,
 				“time”: 0000000,
