@@ -62,15 +62,15 @@
 		],
 		"photometry":[
 			{
-				"time”:”0.1287”,
-				"u_time”:”d”,
-				“filter”:”rprime”,
-				"magnitude":"20.99”,
-				"e_magnitude":"0.08”,
-				"system”:”AB”,
-				"telescope”:”Gemini-N”,
-				“instrument”:”GMOS”,
-				"source”:”4”
+				"time”:”0.1287",
+				"u_time”:”d",
+				"filter”:”rprime",
+				"magnitude”:”20.99",
+				"e_magnitude”:”0.08",
+				"system”:”AB",
+				"telescope”:”Gemini-N",
+				"instrument”:”GMOS",
+				"source”:”4"
 			},
 			{
 				"time”:”0.1421”,
