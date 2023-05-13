@@ -5,27 +5,27 @@
 		"sources":[
 			{
 				"bibcode":"2016ApJ...829....7L",
-				"reference”:”Lien et al. (2016)",
-				"alias”:”1"
+				"reference":"Lien et al. (2016)",
+				"alias":"1"
 			},			
 			{
 				"bibcode":"2011ApJ...737..103S",
 				"reference":"Schlafly & Finkbeiner (2011)",
-				"alias”:”2"
+				"alias":"2"
 			},
 			{
 				"bibcode":"2006ApJ...653..468B",
-				"reference”:”Burrows et al. (2006)",
-				"alias”:”3"
+				"reference":"Burrows et al. (2006)",
+				"alias":"3"
 			},
 			{
 				"bibcode":"2006ApJ...650..261S",
-				"reference”:”Soderberg et al. (2006)",
-				"alias”:”4"
+				"reference":"Soderberg et al. (2006)",
+				"alias":"4"
 			},
 			{
 				"bibcode":"",
-				"reference”:”Troja et al. (2023)",
+				"reference":"Troja et al. (2023)",
 				"alias”:”5"
 			}
 		],
@@ -35,8 +35,8 @@
 				"u_time":"METs",
 				"telescope":"Swift",
 				"instrument":"BAT",
-				"UTC”:”2005-12-21T01:51:15.868000",
-				"source”:”1"
+				"UTC":"2005-12-21T01:51:15.868000",
+				"source":"1"
 			}	
 		],
 		"ebv_gal":[
