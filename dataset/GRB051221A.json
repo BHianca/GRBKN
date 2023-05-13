@@ -26,7 +26,7 @@
 			{
 				"bibcode":"",
 				"reference":"Troja et al. (2023)",
-				"alias”:”5"
+				"alias":"5"
 			}
 		],
 		"trigger":[
@@ -43,7 +43,7 @@
 			{
 				"value":"0.0098",
 				"e_value":"0.0006",
-				"source”:”2"
+				"source":"2"
 			}
 		],
 		"ra":[
@@ -51,7 +51,7 @@
 				"value":"23:01:26.957",
 				"e_value":"0.25",
 				"u_value":"hours",
-				"source”:”3,4"
+				"source":"3,4"
 			}
 		],
 		"dec":[
@@ -59,13 +59,13 @@
 				"value":"-38:58:39.76",
 				"e_value":"0.25",
 				"u_value":"degrees",
-				"source”:”3,4"
+				"source":"3,4"
 			}
 		],
 		"redshift":[
 			{
-				"value”:”0.546"
-				"source”:”3,4"
+				"value":"0.546"
+				"source":"3,4"
 			}
 		],
 		"properties":[
@@ -77,15 +77,15 @@
 		],
 		"photometry":[
 			{
-				"time”:”0.1287",
-				"u_time”:”d",
-				"filter”:”rprime",
-				"magnitude”:”20.99",
-				"e_magnitude”:”0.08",
-				"system”:”AB",
-				"telescope”:”Gemini-N",
-				"instrument”:”GMOS",
-				"source”:”4"
+				"time":"0.1287",
+				"u_time":"d",
+				"filter":"rprime",
+				"magnitude":"20.99",
+				"e_magnitude":"0.08",
+				"system":"AB",
+				"telescope":"Gemini-N",
+				"instrument":"GMOS",
+				"source":"4"
 			},
 			{
 				"time”:”0.1421",
