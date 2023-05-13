@@ -1,7 +1,7 @@
 {
-	"GRB051221A”:{
+	"GRB051221A":{
 		“readme”:”https://github.com/BHianca/GRBKN/README.md",
-		“grb”:”GRB051221A”,
+		“name”:”GRB051221A”,
 		"sources":[
 			{
 				"bibcode":"2016ApJ...829....7L",
