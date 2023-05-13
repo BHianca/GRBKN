@@ -6,22 +6,22 @@
 			{
 				"bibcode":"2016ApJ...829....7L",
 				"reference”:”Lien et al. (2016)",
-				"alias":"1"
+				"alias”:”1"
 			},			
 			{
 				"bibcode":"2011ApJ...737..103S",
 				"reference":"Schlafly & Finkbeiner (2011)",
-				"alias”:”2”
+				"alias”:”2"
 			},
 			{
 				"bibcode":"2006ApJ...653..468B",
 				"reference”:”Burrows et al. (2006)",
-				"alias”:”3”
+				"alias”:”3"
 			},
 			{
 				"bibcode":"2006ApJ...650..261S",
 				"reference”:”Soderberg et al. (2006)",
-				"alias”:”4”
+				"alias”:”4"
 			}
 		],
 		“trigger”:[
