@@ -22,12 +22,20 @@
 				"bibcode":"2006ApJ...650..261S",
 				"reference”:”Soderberg et al. (2006)",
 				"alias”:”4"
+			},
+			{
+				"bibcode":"",
+				"reference”:”Troja et al. (2023)",
+				"alias”:”5"
 			}
 		],
 		"trigger":[
 			{
-				"time":"000000000",
-				"day”:”2005/12/21",
+				"time":"156822675.776",
+				"u_time":"METs",
+				"telescope":"Swift",
+				"instrument":"BAT",
+				"UTC”:”2005-12-21T01:51:15.868000",
 				"source”:”1"
 			}	
 		],
@@ -58,6 +66,13 @@
 			{
 				"value”:”0.546"
 				"source”:”3,4"
+			}
+		],
+		"properties":[
+			{
+				"class":"SGRB",
+				"type":"Afterglow",
+				"source":"5"
 			}
 		],
 		"photometry":[
