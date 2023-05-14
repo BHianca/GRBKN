@@ -102,7 +102,7 @@
 				"filter":"Rspecial",
 				"magnitude":"25.4",
 				"e_magnitude":"-99",
-        "ul_sigma":"-99",
+        			"ul_sigma":"-99",
 				"system":"Vega",
 				"telescope":"VLT",
 				"instrument":"FORS2",
