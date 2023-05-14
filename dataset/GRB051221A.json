@@ -196,7 +196,7 @@
 			{
 				"time":"5.1240",
 				"u_time":"d",
-				"filter":"iprime",
+				"filter":"i",
 				"magnitude":"24.50",
 				"e_magnitude":"-99",
 				"ul_sigma":"5",				
@@ -208,7 +208,7 @@
 			{
 				"time":"5.1377",
 				"u_time":"d",
-				"filter":"zprime",
+				"filter":"z",
 				"magnitude":"24.13",
 				"e_magnitude":"-99",
 				"ul_sigma":"5",				
@@ -218,39 +218,39 @@
 				"source":"4"
 			},
 			{
-				"time”:”5.1518",
-				"u_time”:”d",
-				"filter”:”rprime",
-				"magnitude”:”24.81",
-				"e_magnitude”:”0.21",			
-				"system”:”AB",
-				"telescope”:”Gemini-N",
-				"instrument”:”GMOS",
-				"source”:”4"
+				"time":"5.1518",
+				"u_time":"d",
+				"filter":"r",
+				"magnitude":"24.81",
+				"e_magnitude":"0.21",			
+				"system":"AB",
+				"telescope":"Gemini-N",
+				"instrument":"GMOS",
+				"source":"4"
 			},
 			{
-				"time”:”6.1577",
-				"u_time”:”d",
-				"filter”:”rprime",
-				"magnitude”:”24.74",
-				"e_magnitude”:”-99",
-				"ul_sigma”:”5",				
-				"system”:”AB",
-				"telescope”:”Gemini-N",
-				"instrument”:”GMOS",
-				"source”:”4"
+				"time":"6.1577",
+				"u_time":"d",
+				"filter":"r",
+				"magnitude":"24.74",
+				"e_magnitude":"-99",
+				"ul_sigma":"5",				
+				"system":"AB",
+				"telescope":"Gemini-N",
+				"instrument":"GMOS",
+				"source":"4"
 			},
 			{
-				"time”:”8.1273",
-				"u_time”:”d",
-				"filter”:”rprime",
-				"magnitude”:”24.92",
-				"e_magnitude”:”-99",
-				"ul_sigma”:”5",				
-				"system”:”AB",
-				"telescope”:”Gemini-N",
-				"instrument”:”GMOS",
-				"source”:”4"
+				"time":"8.1273",
+				"u_time":"d",
+				"filter":"r",
+				"magnitude":"24.92",
+				"e_magnitude":"-99",
+				"ul_sigma":"5",				
+				"system":"AB",
+				"telescope":"Gemini-N",
+				"instrument":"GMOS",
+				"source":"4"
 			}	
 		]
 	}
