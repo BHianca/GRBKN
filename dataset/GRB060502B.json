@@ -14,15 +14,20 @@
 				"id":"2"
 			},
 			{
+				"bibcode":"2009MNRAS.397.1177E",
+				"reference":"Evans et al. (2009)",
+				"id":"3"
+			},
+			{
 				"bibcode":"2007ApJ...654..878B",
 				"reference":"Bloom et al. (2007)",
-				"id":"3"
+				"id":"4"
 			},
 			{
 				"bibcode":"",
 				"reference":"Troja et al. (2023)",
-				"secondary": "True", 
-				"id":"4"
+				"secondary":"False"
+				"id":"5"
 			}
 		],
 		"trigger":[
@@ -44,11 +49,12 @@
 		],
 		"ra":[
 			{
-				"value":"	18:35:45.01",
+				"value":"18:35:45.01",
 				"e_value":"7.8",
 				"u_value":"hours",
 				"epoch":"J2000",
-				"source":"4"
+				"source":"3"
+				"version":"6.29"
 			}
 		],
 		"dec":[
@@ -57,56 +63,47 @@
 				"e_value":"7.8",
 				"u_value":"degrees",
 				"epoch":"J2000",
-				"source":"4"
+				"source":"3"
+				"version":"6.29"
 			}
 		],
 		"redshift":[
 			{
 				"value":"0.287"
-				"source":"3"
+				"source":"4"
 			}
 		],
 		"properties":[
 			{
 				"class":"SGRB",
 				"type":"no OT",
-				"source":"4"
+				"source":"5"
 			}
 		],
 		"photometry":[
 			{
-				"time":"8.5",
-				"u_time":"hr",
-				"filter":"R",
-				"magnitude":"24.41",
-				"e_magnitude":"0.47",
-				"system":"Vega",
-				"telescope":"NOT",
-				"instrument":"NOTCAM",
-				"source":"3,4"
-			},
-			{
-				"time":"14.3",
-				"u_time":"hr",
-				"filter":"Rspecial",
-				"magnitude":"24.63",
-				"e_magnitude":"0.31",
-				"system":"Vega",
-				"telescope":"VLT",
-				"instrument":"FORS2",
-				"source":"3,4"
-			},
-			{
-				"time":"36",
-				"u_time":"hr",
-				"filter":"Rspecial",
-				"magnitude":"25.4",
+				"time":"0.7",
+				"u_time":"d",
+				"filter":"r",
+				"magnitude":"24.5",
 				"e_magnitude":"-99",
-        			"ul_sigma":"-99",
-				"system":"Vega",
-				"telescope":"VLT",
-				"instrument":"FORS2",
-				"source":"3,4"
+				"ul_sigma":"3",
+				"system":"AB",
+				"telescope":"Gemini-N",
+				"instrument":"GMOS",
+				"source":"5"
+			},
+			{
+				"time":"0.7",
+				"u_time":"d",
+				"filter":"g",
+				"magnitude":"24.2",
+				"e_magnitude":"-99",
+				"ul_sigma":"3",
+				"system":"AB",
+				"telescope":"Gemini-N",
+				"instrument":"GMOS",
+				"source":"5"
 			}
 		]
 	}
