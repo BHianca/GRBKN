@@ -7,6 +7,7 @@ Dataset associated to the article "Eighteen years of kilonova discoveries with S
 | `sources` |          | Data sources                   | 
 |           | `bibcode` | 19 character NASA ADS bibcode | String 
 |           | `reference` | Short form citation | String 
+|           | `url` | Link to the catalogue's website | String 
 |           | `secondary` | Catalogue of published data | Boolean
 |           | `id`   | Unique identifier | Integer 
 | `trigger` |          | Discovery information                  | 
