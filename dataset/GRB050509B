@@ -1,0 +1,123 @@
+{
+	"GRB050509B":{
+		"readme":"https://github.com/BHianca/GRBKN/README.md",
+		"name":"GRB050509B",
+		"sources":[
+			{
+				"bibcode":"2016ApJ...829....7L",
+				"reference":"Lien et al. (2016)",
+				"url":"https://swift.gsfc.nasa.gov/results/batgrbcat/",				
+				"id":"1"
+			},			
+			{
+				"bibcode":"2011ApJ...737..103S",
+				"reference":"Schlafly & Finkbeiner (2011)",
+				"url":"https://irsa.ipac.caltech.edu/applications/DUST/",
+				"id":"2"
+			},
+			{
+				"bibcode":"2009MNRAS.397.1177E",
+				"reference":"Evans et al. (2009)",
+				"url":"https://www.swift.ac.uk/xrt_positions/",
+				"id":"3"
+			},
+			{
+				"bibcode":"2005Natur.437..851G",
+				"reference":"Gehrels et al. (2005)",
+				"id":"4"
+			},
+			{
+				"bibcode":"2005ApJ...630L.117H",
+				"reference":"Hjorth et al. (2005)",
+				"id":"5"
+			},
+      {
+				"bibcode":"2005A&A...439L..15C",
+				"reference":"Castro-Tirado et al. (2005)",
+				"id":"6"
+			},
+      {
+				"bibcode":" ",
+				"reference":"Troja et al. (2023)",
+				"id":"7"
+			}
+		],
+		"trigger":[
+			{
+				"value":"137304018.752",
+				"u_value":"METs",
+				"mission":"Swift",
+				"instrument":"BAT",
+				"UTC":"2005-05-09T04:00:19.237760",
+				"source":"1"
+			}	
+		],
+		"ebv_gal":[
+			{
+				"value":"0.0163",
+				"e_value":"0.0003",
+				"source":"2"
+			}
+		],
+		"ra":[
+			{
+				"value":"12:36:13.77",
+				"e_value":"5.4",
+				"u_value":"hours",
+				"epoch":"J2000",
+				"source":"3"
+				"version":"6.29"
+			}
+		],
+		"dec":[
+			{
+				"value":"+28:59:03.3",
+				"e_value":"5.4",
+				"u_value":"degrees",
+				"epoch":"J2000",
+				"source":"3"
+				"version":"6.29"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.225",
+				"kind":"host",
+				"source":"4"
+			}
+		],
+		"properties":[
+			{
+				"class":"SGRB",
+				"type":"no OT",
+				"source":"7"
+			}
+		],
+		"photometry":[
+			{
+				"time":"1.85",
+				"u_time":"d",
+				"filter":"R",
+				"magnitude":"26.6",
+				"e_magnitude":"-99",
+				"ul_sigma":"3",
+				"system":"Vega",
+				"telescope":"VLT",
+				"instrument":"FORS2",
+				"source":"5"
+			},
+      {
+				"time":"2.67",
+				"u_time":"d",
+				"filter":"R",
+				"magnitude":"26.0",
+				"e_magnitude":"-99",
+				"ul_sigma":"3",
+				"system":"Vega",
+				"telescope":"6.0BTA",
+				"instrument":"SCORPIO",
+				"source":"6"
+			}
+		]
+	}
+}
