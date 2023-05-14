@@ -54,7 +54,7 @@
 		"dec":[
 			{
 				"value":"-18:52:47.62",
-				"e_value":"0.18",
+				"e_value":"0.76",
 				"u_value":"degrees",
 				"epoch":"J2000",
 				"source":"3"
@@ -82,7 +82,7 @@
 				"e_magnitude":"0.47",
 				"system":"Vega",
 				"telescope":"NOT",
-				"instrument":"NOTCAM",
+				"instrument":"ALFSOC",
 				"source":"3,4"
 			},
 			{
