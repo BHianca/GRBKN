@@ -64,7 +64,8 @@
 		],
 		"redshift":[
 			{
-				"value":"0.1218"
+				"value":"0.1218",
+				"kind":"host",
 				"source":"3"
 			}
 		],
