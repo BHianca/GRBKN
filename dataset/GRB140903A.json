@@ -110,19 +110,19 @@
 				"instrument":"GMOS",
 				"source":"3"
 			},
-      {
+      			{
 				"time":"1.55",
 				"u_time":"d",
 				"filter":"r",
 				"magnitude":"21.2",
 				"e_magnitude":"-99",
-        "ul_sigma":"3",
+        			"ul_sigma":"3",
 				"system":"AB",
 				"telescope":"DCT",
 				"instrument":"LMI",
 				"source":"3"
 			},
-      {
+     			{
 				"time":"1.63",
 				"u_time":"d",
 				"filter":"i",
@@ -133,73 +133,73 @@
 				"instrument":"GMOS",
 				"source":"3"
 			},
-      {
+      			{
 				"time":"2.50",
 				"u_time":"d",
 				"filter":"r",
 				"magnitude":"22.3",
 				"e_magnitude":"-99",
-        "ul_sigma":"3",
+        			"ul_sigma":"3",
 				"system":"AB",
 				"telescope":"Gemini-N",
 				"instrument":"GMOS",
 				"source":"3"
 			},
-      {
+      			{
 				"time":"2.52",
 				"u_time":"d",
 				"filter":"i",
 				"magnitude":"22",
 				"e_magnitude":"-99",
-        "ul_sigma":"3",
+        			"ul_sigma":"3",
 				"system":"AB",
 				"telescope":"Gemini-N",
 				"instrument":"GMOS",
 				"source":"3"
 			},
-      {
+      			{
 				"time":"3.22",
 				"u_time":"d",
 				"filter":"z",
 				"magnitude":"22.5",
 				"e_magnitude":"-99",
-        "ul_sigma":"3",
+       				"ul_sigma":"3",
 				"system":"AB",
 				"telescope":"LT",
 				"instrument":"IO:O",
 				"source":"3"
 			},
-      {
+      			{
 				"time":"4.45",
 				"u_time":"d",
 				"filter":"r",
 				"magnitude":"22.9",
 				"e_magnitude":"-99",
-        "ul_sigma":"3",
+        			"ul_sigma":"3",
 				"system":"AB",
 				"telescope":"DCT",
 				"instrument":"LMI",
 				"source":"3"
 			},
-       {
+       			{
 				"time":"4.52",
 				"u_time":"d",
 				"filter":"i",
 				"magnitude":"21.4",
 				"e_magnitude":"-99",
-        "ul_sigma":"3",
+        			"ul_sigma":"3",
 				"system":"AB",
 				"telescope":"DCT",
 				"instrument":"LMI",
 				"source":"3"
 			},
-       {
+       			{
 				"time":"19.49",
 				"u_time":"d",
 				"filter":"i",
 				"magnitude":"22.9",
 				"e_magnitude":"-99",
-        "ul_sigma":"3",
+        			"ul_sigma":"3",
 				"system":"AB",
 				"telescope":"DCT",
 				"instrument":"LMI",
