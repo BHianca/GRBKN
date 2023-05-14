@@ -20,12 +20,12 @@
 				"reference":"Jin et al. (2020)",
 				"id":"3"
 			},
-      {
+      			{
 				"bibcode":"2010ApJ...722.1946B",
 				"reference":"Berger (2010)",
 				"id":"4"
 			},
-      {
+      			{
 				"bibcode":"2007GCN..6739....1P",
 				"reference":"Perley et al. (2010)",
 				"id":"5"
@@ -78,7 +78,7 @@
 				"kind":"host",
 				"source":"4"
 			},
-      {
+      			{
 				"value":"0.473",
 				"kind":"host",
 				"source":"4"
@@ -114,13 +114,13 @@
 				"instrument":"LRIS",
 				"source":"3"
 			},
-      {
+      			{
 				"time":"1.46867",
 				"u_time":"d",
 				"filter":"R",
 				"magnitude":"25.3",
 				"e_magnitude":"-99",
-        "ul_sigma":"3",
+        			"ul_sigma":"3",
 				"system":"AB",
 				"telescope":"Keck I",
 				"instrument":"LRIS",
@@ -132,7 +132,7 @@
 				"filter":"g",
 				"magnitude":"24.9",
 				"e_magnitude":"-99",
-        "ul_sigma":"3",
+        			"ul_sigma":"3",
 				"system":"AB",
 				"telescope":"Keck I",
 				"instrument":"LRIS",
