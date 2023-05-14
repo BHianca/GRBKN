@@ -68,7 +68,7 @@
 				"kind":"host",
 				"source":"3"
 			},
-      {
+      			{
 				"value":"0.0865",
 				"kind":"host",
 				"source":"3"
@@ -93,7 +93,7 @@
 				"instrument":"UVOT",
 				"source":"3"
 			},
-      {
+      			{
 				"time":"0.107",
 				"u_time":"d",
 				"filter":"w1",
@@ -104,7 +104,7 @@
 				"instrument":"UVOT",
 				"source":"3"
 			},
-      {
+      			{
 				"time":"0.123",
 				"u_time":"d",
 				"filter":"m2",
@@ -115,7 +115,7 @@
 				"instrument":"UVOT",
 				"source":"3"
 			},
-      {
+     			{
 				"time":"0.359",
 				"u_time":"d",
 				"filter":"I",
@@ -137,7 +137,7 @@
 				"instrument":"FORS2",
 				"source":"3"
 			},
-      {
+      			{
 				"time":"0.462",
 				"u_time":"d",
 				"filter":"w1",
@@ -148,25 +148,25 @@
 				"instrument":"UVOT",
 				"source":"3"
 			},
-      {
+      			{
 				"time":"1.379",
 				"u_time":"d",
 				"filter":"I",
 				"magnitude":"23.6",
 				"e_magnitude":"-99",
-        "ul_sigma":"3",
+       				"ul_sigma":"3",
 				"system":"Vega",
 				"telescope":"VLT",
 				"instrument":"FORS2",
 				"source":"3"
 			},
-      {
+      			{
 				"time":"3.392",
 				"u_time":"d",
 				"filter":"I",
 				"magnitude":"24",
 				"e_magnitude":"-99",
-        "ul_sigma":"3",
+        			"ul_sigma":"3",
 				"system":"Vega",
 				"telescope":"VLT",
 				"instrument":"FORS2",
