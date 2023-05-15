@@ -103,7 +103,7 @@
 				"filter":"r",
 				"magnitude":"22.3",
 				"e_magnitude":"-99",
-        "ul_sigma":"3",
+                                "ul_sigma":"3",
 				"system":"AB",
 				"telescope":"OAN/HJT",
 				"instrument":"RATIR",
