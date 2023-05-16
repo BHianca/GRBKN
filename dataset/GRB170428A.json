@@ -25,12 +25,12 @@
 				"reference":"Troja et al. (2017)",
 				"id":"4"
 			},
-      {
+      			{
 				"bibcode":"2017GCN.21059....1I",
 				"reference":"Izzo et al. (2017)",
 				"id":"5"
 			},
-      {
+      			{
 				"bibcode":"",
 				"reference":"Troja et al. (2023)",
 				"id":"6"
@@ -95,7 +95,7 @@
 				"system":"AB",
 				"telescope":"MPG",
 				"instrument":"GROND",
-				"source":"6"
+				"source":"6,3"
 			},
 			{
 				"time":"1.04",
