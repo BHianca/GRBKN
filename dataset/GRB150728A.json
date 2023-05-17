@@ -15,7 +15,7 @@
 				"url":"https://irsa.ipac.caltech.edu/applications/DUST/",
 				"id":"2"
 			},
-      {
+      			{
 				"bibcode":"2009MNRAS.397.1177E",
 				"reference":"Evans et al. (2009)",
 				"url":"https://www.swift.ac.uk/xrt_positions/",
@@ -26,7 +26,7 @@
 				"reference":"Nugent et al. (2022)",
 				"id":"4"
 			},
-      {
+      			{
 				"bibcode":"2015GCN.18115....1D",
 				"reference":"D'Avanzo et al. (2015)",
 				"id":"5"
@@ -61,7 +61,7 @@
 				"u_value":"hours",
 				"epoch":"J2000",
 				"source":"3",
-        "version":"6.29"
+        			"version":"6.29"
 			}
 		],
 		"dec":[
@@ -71,7 +71,7 @@
 				"u_value":"degrees",
 				"epoch":"J2000",
 				"source":"3",
-        "version":"6.29"
+        			"version":"6.29"
 			}
 		],
 		"redshift":[
@@ -89,25 +89,25 @@
 			}
 		],
 		"photometry":[
-     {
+     		{
 				"time":"0.79",
 				"u_time":"d",
 				"filter":"r",
 				"magnitude":"24",
 				"e_magnitude":"-99",
-        "ul_sigma":"3",
+        			"ul_sigma":"3",
 				"system":"AB",
 				"telescope":"HJT",
 				"instrument":"RATIR",
 				"source":"6"
 			},
-      {
+      			{
 				"time":"2.79",
 				"u_time":"d",
 				"filter":"r",
 				"magnitude":"24",
 				"e_magnitude":"-99",
-        "ul_sigma":"3",
+        			"ul_sigma":"3",
 				"system":"AB",
 				"telescope":"HJT",
 				"instrument":"RATIR",
@@ -119,7 +119,7 @@
 				"filter":"r",
 				"magnitude":"24.5",
 				"e_magnitude":"-99",
-        "ul_sigma":"-99",
+        			"ul_sigma":"-99",
 				"system":"AB",
 				"telescope":"TNG",
 				"instrument":"Dolores",
