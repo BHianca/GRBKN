@@ -98,7 +98,7 @@
 				"instrument":"FORS1",
 				"source":"5"
 			},
-      {
+      			{
 				"time":"2.835",
 				"u_time":"d",
 				"filter":"R",
@@ -109,7 +109,7 @@
 				"instrument":"FORS1",
 				"source":"5"
 			},
-      {
+      			{
 				"time":"3.861",
 				"u_time":"d",
 				"filter":"R",
@@ -120,7 +120,7 @@
 				"instrument":"FORS1",
 				"source":"5"
 			},
-      {
+     			{
 				"time":"7.828",
 				"u_time":"d",
 				"filter":"R",
