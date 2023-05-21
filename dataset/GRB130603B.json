@@ -15,7 +15,7 @@
 				"url":"https://irsa.ipac.caltech.edu/applications/DUST/",
 				"id":"2"
 			},
-      {
+                        {
 				"bibcode":"2014A&A...563A..62D",
 				"reference":"De Ugarte Postigo et al. (2014)",
 				"id":"3"
@@ -29,6 +29,11 @@
 				"bibcode":"2019MNRAS.485.5294P",
 				"reference":"Pandey et al. (2019)",
 				"id":"5"
+			},
+			{
+				"bibcode":" ",
+				"reference":"Troja et al. (2023)",
+				"id":"6"
 			}
 		],
 		"trigger":[
@@ -115,6 +120,17 @@
 				"source":"4"
 			},
 			{
+				"time":"0.254",
+				"u_time":"d",
+				"filter":"z",
+				"magnitude":"20.39",
+				"e_magnitude":"0.06",
+				"system":"AB",
+				"telescope":"WHT",
+				"instrument":"ACAM",
+				"source":"3"
+			},
+			{
 				"time":"0.274",
 				"u_time":"d",
 				"filter":"i",
@@ -124,6 +140,17 @@
 				"telescope":"WHT",
 				"instrument":"ACAM",
 				"source":"4"
+			},
+			{
+				"time":"0.281",
+				"u_time":"d",
+				"filter":"V",
+				"magnitude":"20.60",
+				"e_magnitude":"0.10",
+				"system":"AB",
+				"telescope":"CAHA",
+				"instrument":"--",
+				"source":"3"
 			},
 			{
 				"time":"0.290",
@@ -466,6 +493,29 @@
 				"system":"AB",
 				"telescope":"VLT",
 				"instrument":"HAWKI",
+				"source":"4"
+			},
+			{
+				"time":"9.37",
+				"u_time":"d",
+				"filter":"F606W",
+				"magnitude":"28.25",
+				"e_magnitude":"-99",
+				"ul_sigma":"2",
+				"system":"AB",
+				"telescope":"HST",
+				"instrument":"ACS/WFC",
+				"source":"4"
+			},
+			{
+				"time":"9.41",
+				"u_time":"d",
+				"filter":"F160W",
+				"magnitude":"25.73",
+				"e_magnitude":"0.20"
+				"system":"AB",
+				"telescope":"HST",
+				"instrument":"WFC3/IR",
 				"source":"4"
 			}
 			
