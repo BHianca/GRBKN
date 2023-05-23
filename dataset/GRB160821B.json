@@ -1,0 +1,97 @@
+{
+	"GRB160821B":{
+		"readme":"https://github.com/BHianca/GRBKN/README.md",
+		"name":"GRB160821B",
+		"sources":[
+			{
+				"bibcode":"2016ApJ...829....7L",
+				"reference":"Lien et al. (2016)",
+				"url":"https://swift.gsfc.nasa.gov/results/batgrbcat/",
+				"id":"1"
+			},			
+			{
+				"bibcode":"2011ApJ...737..103S",
+				"reference":"Schlafly & Finkbeiner (2011)",
+				"url":"https://irsa.ipac.caltech.edu/applications/DUST/",
+				"id":"2"
+			},
+      {
+				"bibcode":"2019MNRAS.489.2104T",
+				"reference":"Troja et al. (2019)",      
+				"id":"3"
+			},
+      {
+				"bibcode":"2019ApJ...883...48L",
+				"reference":"Lamb et al. (2019)",
+				"id":"4"
+			},
+			{
+				"bibcode":" ",
+				"reference":"Troja et al. (2023)",
+				"id":"6"
+			}
+		],
+		"trigger":[
+			{
+				"value":"493511370.048",
+				"u_value":"METs",
+				"mission":"Swift",
+				"instrument":"BAT",
+				"UTC":"2016-08-21T22:29:13.303140",
+				"source":"1"
+			}	
+		],
+		"ebv_gal":[
+			{
+				"value":"0.0383",
+				"e_value":"0.0023",
+				"source":"2"
+			}
+		],
+		"ra":[
+			{
+				"value":"18:39:54.56",
+				"e_value":"0.04",
+				"u_value":"hours",
+				"epoch":"J2000",
+				"source":"3"
+			}
+		],
+		"dec":[
+			{
+				"value":"+62:23:30.35",
+				"e_value":"0.04",
+				"u_value":"degrees",
+				"epoch":"J2000",
+				"source":"3"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.1613",
+				"kind":"host",
+				"source":"3"
+			}
+		],
+		"properties":[
+			{
+				"class":"SGRB",
+				"type":"Kilonova",
+				"source":"5"
+			}
+		],
+		"photometry":[
+			{
+				"time":"0.076",
+				"u_time":"d",
+				"filter":"r",
+				"magnitude":"22.67",
+				"e_magnitude":"0.10",
+				"system":"AB",
+				"telescope":"GTC",
+				"instrument":"OSIRIS",
+				"source":"3"
+			}
+		]
+	}
+}
