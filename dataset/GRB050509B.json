@@ -37,9 +37,14 @@
 				"id":"6"
 			},
       			{
+				"bibcode":"2005GCN..3409....1C",
+				"reference":"Cenko et al. (2005)",
+				"id":"7"
+			},
+			{
 				"bibcode":" ",
 				"reference":"Troja et al. (2023)",
-				"id":"7"
+				"id":"8"
 			}
 		],
 		"trigger":[
@@ -90,10 +95,22 @@
 			{
 				"class":"SGRB",
 				"type":"no OT",
-				"source":"7"
+				"source":"8"
 			}
 		],
 		"photometry":[
+			{
+				"time":"1.08",
+				"u_time":"d",
+				"filter":"R",
+				"magnitude":"25.6",
+				"e_magnitude":"-99",
+				"ul_sigma":"-99",
+				"system":"Vega",
+				"telescope":"Keck",
+				"instrument":"LRIS",
+				"source":"7"
+			},
 			{
 				"time":"1.85",
 				"u_time":"d",
