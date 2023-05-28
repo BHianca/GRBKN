@@ -26,6 +26,11 @@
 				"id":"4"
 			},
 			{
+				"bibcode":"2017ApJ...843L..34K",
+				"reference":"Kasliwal et al. (2017)",
+				"id":"5"
+			},
+			{
 				"bibcode":" ",
 				"reference":"Troja et al. (2023)",
 				"id":"6"
@@ -306,7 +311,7 @@
 				"system":"AB",
 				"telescope":"Keck",
 				"instrument":"MOSFIRE",
-				"source":"3"
+				"source":"3,5"
 			},
 			{
 				"time":"4.985",
@@ -329,7 +334,7 @@
 				"system":"AB",
 				"telescope":"Keck",
 				"instrument":"MOSFIRE",
-				"source":"3"
+				"source":"3,5"
 			},
 			{
 				"time":"8.383",
@@ -341,7 +346,7 @@
 				"system":"AB",
 				"telescope":"Keck",
 				"instrument":"MOSFIRE",
-				"source":"3"
+				"source":"3,5"
 			},
 			{
 				"time":"9.987",
