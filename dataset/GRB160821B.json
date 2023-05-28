@@ -82,6 +82,30 @@
 		],
 		"photometry":[
 			{
+				"time":"0.002",
+				"u_time":"d",
+				"filter":"white",
+				"magnitude":"21.9",
+				"e_magnitude":"-99",
+				"ul_sigma":"3",
+				"system":"AB",
+				"telescope":"Swift",
+				"instrument":"UVOT",
+				"source":"3"
+			},
+			{
+				"time":"0.004",
+				"u_time":"d",
+				"filter":"u",
+				"magnitude":"21.4",
+				"e_magnitude":"-99",
+				"ul_sigma":"3",
+				"system":"AB",
+				"telescope":"Swift",
+				"instrument":"UVOT",
+				"source":"3"
+			},
+			{
 				"time":"0.076",
 				"u_time":"d",
 				"filter":"r",
@@ -137,6 +161,42 @@
 				"source":"3"
 			},
 			{
+				"time":"1.941",
+				"u_time":"d",
+				"filter":"H",
+				"magnitude":"23.8",
+				"e_magnitude":"-99",
+				"ul_sigma":"3",
+				"system":"AB",
+				"telescope":"GTC",
+				"instrument":"CIRCE",
+				"source":"3"
+			},
+			{
+				"time":"1.958",
+				"u_time":"d",
+				"filter":"J",
+				"magnitude":"24",
+				"e_magnitude":"-99",
+				"ul_sigma":"3",
+				"system":"AB",
+				"telescope":"GTC",
+				"instrument":"CIRCE",
+				"source":"3"
+			},
+			{
+				"time":"1.984",
+				"u_time":"d",
+				"filter":"Ks",
+				"magnitude":"23.3",
+				"e_magnitude":"-99",
+				"ul_sigma":"3",
+				"system":"AB",
+				"telescope":"GTC",
+				"instrument":"CIRCE",
+				"source":"3"
+			},
+			{
 				"time":"2.021",
 				"u_time":"d",
 				"filter":"g",
@@ -178,6 +238,39 @@
 				"system":"AB",
 				"telescope":"GTC",
 				"instrument":"OSIRIS",
+				"source":"3"
+			},
+			{
+				"time":"3.627",
+				"u_time":"d",
+				"filter":"F606W",
+				"magnitude":"26.02",
+				"e_magnitude":"0.06",
+				"system":"AB",
+				"telescope":"HST",
+				"instrument":"WFC3",
+				"source":"3"
+			},
+			{
+				"time":"3.694",
+				"u_time":"d",
+				"filter":"F160W",
+				"magnitude":"24.53",
+				"e_magnitude":"0.08",
+				"system":"AB",
+				"telescope":"HST",
+				"instrument":"WFC3",
+				"source":"3"
+			},
+			{
+				"time":"3.760",
+				"u_time":"d",
+				"filter":"F110W",
+				"magnitude":"24.82",
+				"e_magnitude":"0.05",
+				"system":"AB",
+				"telescope":"HST",
+				"instrument":"WFC3",
 				"source":"3"
 			},
 			{
@@ -249,6 +342,75 @@
 				"system":"AB",
 				"telescope":"GTC",
 				"instrument":"OSIRIS",
+				"source":"3"
+			},
+			{
+				"time":"10.388",
+				"u_time":"d",
+				"filter":"F606W",
+				"magnitude":"27.9",
+				"e_magnitude":"0.3",
+				"system":"AB",
+				"telescope":"HST",
+				"instrument":"WFC3",
+				"source":"3"
+			},
+			{
+				"time":"10.446",
+				"u_time":"d",
+				"filter":"F110W",
+				"magnitude":"26.9",
+				"e_magnitude":"0.4",
+				"system":"AB",
+				"telescope":"HST",
+				"instrument":"WFC3",
+				"source":"3"
+			},
+			{
+				"time":"10.512",
+				"u_time":"d",
+				"filter":"F160W",
+				"magnitude":"26.6",
+				"e_magnitude":"0.3",
+				"system":"AB",
+				"telescope":"HST",
+				"instrument":"WFC3",
+				"source":"3"
+			},
+			{
+				"time":"23.151",
+				"u_time":"d",
+				"filter":"F606W",
+				"magnitude":"27.2",
+				"e_magnitude":"-99",
+				"ul_sigma":"3", 
+				"system":"AB",
+				"telescope":"HST",
+				"instrument":"WFC3",
+				"source":"3"
+			},
+			{
+				"time":"23,171",
+				"u_time":"d",
+				"filter":"F110W",
+				"magnitude":"26.6",
+				"e_magnitude":"-99",
+				"ul_sigma":"3", 
+				"system":"AB",
+				"telescope":"HST",
+				"instrument":"WFC3",
+				"source":"3"
+			},
+			{
+				"time":"23.217",
+				"u_time":"d",
+				"filter":"F160W",
+				"magnitude":"25.7",
+				"e_magnitude":"-99",
+				"ul_sigma":"3", 
+				"system":"AB",
+				"telescope":"HST",
+				"instrument":"WFC3",
 				"source":"3"
 			}
 		]
