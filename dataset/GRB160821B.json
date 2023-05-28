@@ -111,6 +111,28 @@
 				"source":"3"
 			},
 			{
+				"time":"0.05",
+				"u_time":"d",
+				"filter":"r",
+				"magnitude":"22.58",
+				"e_magnitude":"0.09",
+				"system":"AB",
+				"telescope":"NOT",
+				"instrument":"AlFOSC",
+				"source":"4"
+			},
+			{
+				"time":"0.07",
+				"u_time":"d",
+				"filter":"r",
+				"magnitude":"22.52",
+				"e_magnitude":"0.06",
+				"system":"AB",
+				"telescope":"NOT",
+				"instrument":"AlFOSC",
+				"source":"4"
+			},
+			{
 				"time":"0.076",
 				"u_time":"d",
 				"filter":"r",
@@ -142,6 +164,17 @@
 				"telescope":"GTC",
 				"instrument":"OSIRIS",
 				"source":"3"
+			},
+			{
+				"time":"0.95",
+				"u_time":"d",
+				"filter":"g",
+				"magnitude":"24.02",
+				"e_magnitude":"0.16",
+				"system":"AB",
+				"telescope":"TNG",
+				"instrument":"DOLoRes",
+				"source":"4"
 			},
 			{
 				"time":"1.07",
@@ -178,6 +211,17 @@
 				"source":"3"
 			},
 			{
+				"time":"1.95",
+				"u_time":"d",
+				"filter":"r",
+				"magnitude":"24.81",
+				"e_magnitude":"0.07",
+				"system":"AB",
+				"telescope":"NOT",
+				"instrument":"AlFOSC",
+				"source":"4"
+			},
+			{
 				"time":"1.958",
 				"u_time":"d",
 				"filter":"J",
@@ -200,6 +244,17 @@
 				"telescope":"GTC",
 				"instrument":"CIRCE",
 				"source":"3"
+			},
+			{
+				"time":"1.99",
+				"u_time":"d",
+				"filter":"r",
+				"magnitude":"23.90",
+				"e_magnitude":"0.23",
+				"system":"AB",
+				"telescope":"NOT",
+				"instrument":"AlFOSC",
+				"source":"4"
 			},
 			{
 				"time":"2.021",
