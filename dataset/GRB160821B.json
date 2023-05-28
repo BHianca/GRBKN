@@ -179,6 +179,77 @@
 				"telescope":"GTC",
 				"instrument":"OSIRIS",
 				"source":"3"
+			},
+			{
+				"time":"3.992",
+				"u_time":"d",
+				"filter":"g",
+				"magnitude":"25.6",
+				"e_magnitude":"-99",
+				"ul_sigma":"3",
+				"system":"AB",
+				"telescope":"GTC",
+				"instrument":"OSIRIS",
+				"source":"3"
+			},
+			{
+				"time":"3.997",
+				"u_time":"d",
+				"filter":"i",
+				"magnitude":"25.8",
+				"e_magnitude":"-99",
+				"ul_sigma":"3",
+				"system":"AB",
+				"telescope":"GTC",
+				"instrument":"OSIRIS",
+				"source":"3"
+			},
+			{
+				"time":"4.985",
+				"u_time":"d",
+				"filter":"r",
+				"magnitude":"26.49",
+				"e_magnitude":"0.20",
+				"system":"AB",
+				"telescope":"GTC",
+				"instrument":"OSIRIS",
+				"source":"3"
+			},
+			{
+				"time":"9.987",
+				"u_time":"d",
+				"filter":"i",
+				"magnitude":"26",
+				"e_magnitude":"-99",
+				"ul_sigma":"3",
+				"system":"AB",
+				"telescope":"GTC",
+				"instrument":"OSIRIS",
+				"source":"3"
+			},
+			{
+				"time":"9.998",
+				"u_time":"d",
+				"filter":"g",
+				"magnitude":"25.8",
+				"e_magnitude":"-99",
+				"ul_sigma":"3",
+				"system":"AB",
+				"telescope":"GTC",
+				"instrument":"OSIRIS",
+				"source":"3"
+			},
+			{
+				"time":"10.013",
+				"u_time":"d",
+				"filter":"r",
+				"magnitude":"26.2",
+				"e_magnitude":"-99",
+				"ul_sigma":"3",
+				"system":"AB",
+				"telescope":"GTC",
+				"instrument":"OSIRIS",
+				"source":"3"
 			}
 		]
 	}
