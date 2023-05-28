@@ -91,6 +91,50 @@
 				"telescope":"GTC",
 				"instrument":"OSIRIS",
 				"source":"3"
+			},
+			{
+				"time":"0.080",
+				"u_time":"d",
+				"filter":"i",
+				"magnitude":"22.39",
+				"e_magnitude":"0.07",
+				"system":"AB",
+				"telescope":"GTC",
+				"instrument":"OSIRIS",
+				"source":"3"
+			},
+			{
+				"time":"0.083",
+				"u_time":"d",
+				"filter":"z",
+				"magnitude":"22.28",
+				"e_magnitude":"0.06",
+				"system":"AB",
+				"telescope":"GTC",
+				"instrument":"OSIRIS",
+				"source":"3"
+			},
+			{
+				"time":"1.07",
+				"u_time":"d",
+				"filter":"r",
+				"magnitude":"23.83",
+				"e_magnitude":"0.25",
+				"system":"AB",
+				"telescope":"WHT",
+				"instrument":"ACAM",
+				"source":"3"
+			},
+			{
+				"time":"1.09",
+				"u_time":"d",
+				"filter":"z",
+				"magnitude":"23.6",
+				"e_magnitude":"0.3",
+				"system":"AB",
+				"telescope":"WHT",
+				"instrument":"ACAM",
+				"source":"3"
 			}
 		]
 	}
