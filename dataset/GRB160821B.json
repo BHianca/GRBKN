@@ -298,6 +298,17 @@
 				"source":"3"
 			},
 			{
+				"time":"4.297",
+				"u_time":"d",
+				"filter":"Ks",
+				"magnitude":"24.0",
+				"e_magnitude":"0.4",
+				"system":"AB",
+				"telescope":"Keck",
+				"instrument":"MOSFIRE",
+				"source":"3"
+			},
+			{
 				"time":"4.985",
 				"u_time":"d",
 				"filter":"r",
@@ -306,6 +317,30 @@
 				"system":"AB",
 				"telescope":"GTC",
 				"instrument":"OSIRIS",
+				"source":"3"
+			},
+			{
+				"time":"7.465",
+				"u_time":"d",
+				"filter":"Ks",
+				"magnitude":"23.9",
+				"e_magnitude":"-99",
+				"ul_sigma":"3",
+				"system":"AB",
+				"telescope":"Keck",
+				"instrument":"MOSFIRE",
+				"source":"3"
+			},
+			{
+				"time":"8.383",
+				"u_time":"d",
+				"filter":"Ks",
+				"magnitude":"23.7",
+				"e_magnitude":"-99",
+				"ul_sigma":"3",
+				"system":"AB",
+				"telescope":"Keck",
+				"instrument":"MOSFIRE",
 				"source":"3"
 			},
 			{
@@ -390,7 +425,7 @@
 				"source":"3"
 			},
 			{
-				"time":"23,171",
+				"time":"23.171",
 				"u_time":"d",
 				"filter":"F110W",
 				"magnitude":"26.6",
