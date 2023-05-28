@@ -135,6 +135,50 @@
 				"telescope":"WHT",
 				"instrument":"ACAM",
 				"source":"3"
+			},
+			{
+				"time":"2.021",
+				"u_time":"d",
+				"filter":"g",
+				"magnitude":"25.67",
+				"e_magnitude":"0.15",
+				"system":"AB",
+				"telescope":"GTC",
+				"instrument":"OSIRIS",
+				"source":"3"
+			},
+			{
+				"time":"2.028",
+				"u_time":"d",
+				"filter":"r",
+				"magnitude":"25.12",
+				"e_magnitude":"0.12",
+				"system":"AB",
+				"telescope":"GTC",
+				"instrument":"OSIRIS",
+				"source":"3"
+			},
+			{
+				"time":"2.036",
+				"u_time":"d",
+				"filter":"i",
+				"magnitude":"24.56",
+				"e_magnitude":"0.12",
+				"system":"AB",
+				"telescope":"GTC",
+				"instrument":"OSIRIS",
+				"source":"3"
+			},
+			{
+				"time":"2.046",
+				"u_time":"d",
+				"filter":"z",
+				"magnitude":"24.31",
+				"e_magnitude":"0.17",
+				"system":"AB",
+				"telescope":"GTC",
+				"instrument":"OSIRIS",
+				"source":"3"
 			}
 		]
 	}
