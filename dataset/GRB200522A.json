@@ -98,26 +98,26 @@
 				"u_time":"d",
 				"filter":"I",
 				"magnitude":"20.4",
-				"e_magnitude":"-99",
-        "ul_sigma"="3",
+				"e_magnitude":"-99", 
+	      			"ul_sigma"="3",
 				"system":"AB",
 				"telescope":"LCOGT",
 				"instrument":"Sinistro",
 				"source":"4"
 			},
-      {
+     			{
 				"time":"2.12",
 				"u_time":"d",
 				"filter":"r",
 				"magnitude":"22.3",
 				"e_magnitude":"-99",
-        "ul_sigma"="3",
+	      			"ul_sigma"="3",
 				"system":"AB",
 				"telescope":"Gemini-N",
 				"instrument":"GMOS",
 				"source":"3"
 			},
-      {
+      			{
 				"time":"3.12",
 				"u_time":"d",
 				"filter":"r",
@@ -128,7 +128,7 @@
 				"instrument":"GMOS",
 				"source":"3"
 			},
-      {
+      			{
 				"time":"3.47",
 				"u_time":"d",
 				"filter":"F125W",
@@ -139,7 +139,7 @@
 				"instrument":"WFC3",
 				"source":"3"
 			},
-      {
+      			{
 				"time":"3.61",
 				"u_time":"d",
 				"filter":"F160W",
@@ -150,13 +150,13 @@
 				"instrument":"WFC3",
 				"source":"3"
 			},
-      {
+      			{
 				"time":"16.32",
 				"u_time":"d",
 				"filter":"F125W",
 				"magnitude":"27.2",
 				"e_magnitude":"-99",
-        "ul_sigma"="3",
+				"ul_sigma"="3",
 				"system":"AB",
 				"telescope":"HST",
 				"instrument":"WFC3",
